@@ -1,11 +1,8 @@
-bootstrapPortfolio
-==================
-
 # Site Concept and Requirements
 
 #### Description:
 
-This is a single page protfolio site.
+This is a single page portfolio site.
 
 It should showcase the client's skills and work in an engaging and appealling way. 
 
@@ -37,10 +34,10 @@ It should showcase the client's skills and work in an engaging and appealling wa
 * Skills (list)
 * Web design samples
 * Graphic design samples
-* Photography samples
-** Summer site
-** Things are looking up
-* Multimedia samples 
-** PLC video
+* Photography samples	
+	** Summer Site   
+	** Things are looking up	
+* Multimedia samples		 
+	** PLC video
 * Art samples
 
