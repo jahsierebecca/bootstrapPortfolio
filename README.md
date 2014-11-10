@@ -35,9 +35,9 @@ It should showcase the client's skills and work in an engaging and appealling wa
 * Web design samples
 * Graphic design samples
 * Photography samples	
-	** Summer Site   
-	** Things are looking up	
+  * Summer Site   
+  * Things are looking up	
 * Multimedia samples		 
-	** PLC video
+  * PLC video
 * Art samples
 
