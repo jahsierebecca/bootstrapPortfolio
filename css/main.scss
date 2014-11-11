@@ -1,0 +1,193 @@
+
+$yellow: rgba(255, 195, 0, 1);
+$orange: rgba(230, 126, 34,1.0);
+$red: rgba(231, 76, 60,1.0);
+$blue: rgba(52, 152, 219,1.0);
+$purple: rgba(155, 89, 182,1.0);
+$turquoise: rgba(26, 188, 156,1.0);
+$dgrey: rgba(52, 73, 94,1.0);
+$grey: rgba(189, 195, 199, 1);
+
+.page {
+	padding-top: 19px;
+	box-sizing: border-box;
+}
+
+.navbar {
+	margin-bottom: 0;
+	background-color: $grey;
+}
+
+.navbar-default .navbar-nav>li>a {
+		color: $dgrey;
+}
+
+
+body { 
+	font-size: 100%;
+	padding-top: 30px; }
+
+h1, h2, h4, h5, h6 {
+	font-family: 'Montserrat', sans-serif;	
+	font-weight: 700;
+	margin: 0;
+}
+
+
+h1 {
+	font-size: 8.189em;
+	text-transform: uppercase;
+		}
+	
+h2  {
+	font-size: 2.126em;
+	line-height: 1.223;
+
+		    }
+
+/*			
+h1, h2 {
+	text-shadow: 0 2px 2px rgba(0, 0, 0, .65);
+			 }
+			 */
+			 
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 1.482em; 
+	line-height: 1;
+		margin: 0;
+		}
+		    
+h4 {
+	font-size: 1em;
+	line-height: 1.56;
+		}
+		
+h3,h4 {      
+	font-weight: 300;
+	text-transform: uppercase;
+		}
+		
+h5 {
+	font-size: .8125em;
+	line-height: 1.125;
+		}
+
+p {
+	font-size: 1.4em;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	margin: 10px 0;
+}
+.aspect {
+	overflow: auto;
+	padding: 3%;
+}
+
+.subject {
+	padding: 2%;
+	box-sizing: border-box;
+}
+	.subject-title {
+	width: 50%;
+	float: left;
+	height: 100%;
+}
+
+.subject-main {
+	width: 50%;
+	float: right;
+}
+
+
+
+
+#headings {
+	display: inline-block;
+	width: 50%;
+	float: left;
+}		
+
+#paragraph {
+	display: inline-block;
+	width: 50%;
+	height: 50vh;
+	float: right;
+	overflow: scroll;
+}
+
+.colors {
+	clear: both;
+}
+
+.swatch {
+	float: left;
+	display: inline-block;
+	margin: 15px;
+	height: 100px;
+	width: 100px;
+}
+
+.backgroundPic {
+	background-attachment: fixed;
+}
+
+.colored {
+	color: white;
+}
+
+#bio {
+	background-color: $blue;
+}
+#skills {
+	background-image: url(../img/back.jpg);
+}
+#web {
+	background-color: $purple;
+}
+#graphic {
+		background-image: url(../img/sky.jpg)}
+#other {
+	background-color: $red;
+}
+#contact {
+	background-color: $dgrey;
+	color: $grey;
+}
+
+
+
+
+
+#yellow {
+	background-color: $yellow;
+}
+
+#orange {
+	background-color: $orange;
+}
+
+#red {
+	background-color: $red;
+}
+
+#blue {
+	background-color: $blue;
+}
+
+#purple {
+	background-color: $purple;
+}
+
+#turquoise {
+	background-color: $turquoise;
+}
+
+#dgrey {
+	background-color: $dgrey;
+}
+
+#grey {
+	background-color: $grey;
+}
