@@ -19,6 +19,7 @@ $grey: rgba(189, 195, 199, 1);
 }
 
 .navbar-default .navbar-nav>li>a {
+	font-size: 1.5em;
 		color: $dgrey;
 }
 
@@ -100,7 +101,9 @@ p {
 	float: right;
 }
 
-
+.right {
+	text-align: right;
+}
 
 
 #headings {
@@ -137,11 +140,30 @@ p {
 	color: white;
 }
 
+#gallery {
+	width: 100%;
+	padding: 0;
+	white-space: nowrap;
+	.col-md-3 {
+		padding: 0;
+	}
+	.col-xs-3 {
+		padding: 0;
+	}
+	img {
+		max-width: 100%; 
+		height: auto;
+	}
+}
+
+
+
 #bio {
 	background-color: $blue;
 }
 #skills {
-	background-image: url(../img/back.jpg);
+	background-size: cover;
+	background-image: url(../img/Leaf-Cirlces.png);
 }
 #web {
 	background-color: $purple;

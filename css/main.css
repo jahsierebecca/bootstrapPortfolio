@@ -7,6 +7,7 @@
   background-color: #bdc3c7; }
 
 .navbar-default .navbar-nav > li > a {
+  font-size: 1.5em;
   color: #34495e; }
 
 body {
@@ -73,6 +74,9 @@ p {
   width: 50%;
   float: right; }
 
+.right {
+  text-align: right; }
+
 #headings {
   display: inline-block;
   width: 50%;
@@ -101,11 +105,24 @@ p {
 .colored {
   color: white; }
 
+#gallery {
+  width: 100%;
+  padding: 0;
+  white-space: nowrap; }
+  #gallery .col-md-3 {
+    padding: 0; }
+  #gallery .col-xs-3 {
+    padding: 0; }
+  #gallery img {
+    max-width: 100%;
+    height: auto; }
+
 #bio {
   background-color: #3498db; }
 
 #skills {
-  background-image: url(../img/back.jpg); }
+  background-size: cover;
+  background-image: url(../img/Leaf-Cirlces.png); }
 
 #web {
   background-color: #9b59b6; }
