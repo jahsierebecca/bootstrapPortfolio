@@ -41,3 +41,12 @@ It should showcase the client's skills and work in an engaging and appealling wa
   * PLC video
 * Art samples
 
+
+#### Inspiration
+
+(open all: http://www.one-tab.com/page/J0t6qWiZTM6cRy0XdG5UJw)
+
+* Flat colors and nice iconography: http://bearddesign.co/labs/
+* Nice formatting and mix of color/photo backgrounds: http://www.rileyscycles.co.uk/
+* Nice iconography: http://www.petertoth.me/
+* General styling, mix of color and photo: http://www.dangblast.com/

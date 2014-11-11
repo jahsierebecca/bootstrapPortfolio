@@ -1,0 +1,116 @@
+body {
+	padding: 2%;
+}
+
+div {
+	box-sizing: border-box;
+	padding: 10px;
+}
+
+h1, h2, h4, h5, h6 {
+	font-family: 'Montserrat', sans-serif;	
+	font-weight: 700;
+}
+
+
+h1 {
+	font-size: 3.189em;
+	line-height: 1.223;
+	text-transform: uppercase;
+		}
+	
+h2  {
+	font-size: 2.126em;
+	line-height: 1.223;
+		    }
+
+/*			
+h1, h2 {
+	text-shadow: 0 2px 2px rgba(0, 0, 0, .65);
+			 }
+			 */
+			 
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 1.382em; 
+	line-height: 1.223;
+		}
+		    
+h4 {
+	font-size: 1em;
+	line-height: 1.56;
+		}
+		
+h3,h4 {      
+	font-weight: 300;
+	text-transform: uppercase;
+		}
+		
+h5 {
+	font-size: .8125em;
+	line-height: 1.125;
+		}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+
+#headings {
+	display: inline-block;
+	width: 50%;
+	float: left;
+}		
+
+#paragraph {
+	display: inline-block;
+	width: 50%;
+	height: 50vh;
+	float: right;
+	overflow: scroll;
+}
+
+.colors {
+	clear: both;
+}
+
+.swatch {
+	float: left;
+	display: inline-block;
+	margin: 15px;
+	height: 100px;
+	width: 100px;
+}
+
+#yellow {
+	background-color: rgba(255, 195, 0, 1);
+}
+
+#orange {
+	background-color: rgba(230, 126, 34,1.0)
+}
+
+#red {
+	background-color: rgba(231, 76, 60,1.0);
+}
+
+#blue {
+	background-color: rgba(52, 152, 219,1.0);
+}
+
+#purple {
+	background-color: rgba(155, 89, 182,1.0);
+}
+
+#turquoise {
+	background-color: rgba(26, 188, 156,1.0);
+}
+
+#dgrey {
+	background-color: rgba(52, 73, 94,1.0);
+}
+
+#grey {
+	background-color: rgba(189, 195, 199, 1);
+}
