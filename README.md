@@ -12,7 +12,8 @@ It should showcase the client's skills and work in an engaging and appealling wa
 * Must have a live style guide (built from HTML & CSS) that applies to all elements, whether bootstrap, embedded, or hand-crafted.
 * Must have a client brief, requirements document, and specification document
 * Must have a github repo with a history that shows good git workflow
-* Must be a one-page design with sticky nav menu 
+* Must be a one-page design with sticky nav menu
+* Must have a mailchimp contact form
 * Must have at least one carousel that illustrates several facets of one aspect of what the site's content
 * Must NOT "look like Bootstrap"
 
