@@ -3,9 +3,7 @@
 #### Description:
 
 This is a single page portfolio site.
-
 It should showcase the client's skills and work in an engaging and appealling way. 
-
 
 #### Org Side Requirements
 
@@ -13,9 +11,13 @@ It should showcase the client's skills and work in an engaging and appealling wa
 * Must have a client brief, requirements document, and specification document
 * Must have a github repo with a history that shows good git workflow
 * Must be a one-page design with sticky nav menu
-* Must have a mailchimp contact form
 * Must have at least one carousel that illustrates several facets of one aspect of what the site's content
 * Must NOT "look like Bootstrap"
+* Use Bootstrap/jQuery
+* Host on github pages
+* Have a MailChimp mailing list signup form
+* Use ScrollSpy plugin
+* Use navbar, slider components
 
 #### Client Side Requirements
 
@@ -26,7 +28,7 @@ It should showcase the client's skills and work in an engaging and appealling wa
 * who you are
 * Different from Linked In - which has dates, details, formality, for all potential clients/employers
 * Different from Resume - which is a hand-held model of you matched to a particular engagement
-* provide depth of information (links to linked, twitter, instagram)
+* provide depth of information (links to linkedIn, twitter, instagram)
 
 
 #### Contents
@@ -50,4 +52,3 @@ It should showcase the client's skills and work in an engaging and appealling wa
 * Flat colors and nice iconography: http://bearddesign.co/labs/
 * Nice formatting and mix of color/photo backgrounds: http://www.rileyscycles.co.uk/
 * Nice iconography: http://www.petertoth.me/
-* General styling, mix of color and photo: http://www.dangblast.com/
