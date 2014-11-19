@@ -4,15 +4,14 @@
 
 .navbar {
   margin-bottom: 0;
-  background-color: #bdc3c7; }
+  background-color: black; }
 
 .navbar-default .navbar-nav > li > a {
   font-size: 1.5em;
-  color: #34495e; }
+  color: white; }
 
 body {
-  font-size: 100%;
-  padding: 30px; }
+  font-size: 100%; }
 
 h1, h2, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
@@ -84,7 +83,7 @@ p {
 
 #paragraph {
   display: inline-block;
-  width: 50%;
+  width: 45%;
   height: 50vh;
   float: right;
   overflow: scroll; }
@@ -103,7 +102,7 @@ p {
   background-attachment: fixed; }
 
 .colored {
-  color: white; }
+  color: black; }
 
 #gallery {
   width: 100%;
@@ -118,17 +117,29 @@ p {
     height: auto; }
 
 #bio {
-  background-color: #3498db; }
+  background-color: #34495e;
+  height: 50vh; }
 
 #skills {
+  padding-top: 70px;
+  height: 80vh;
+  color: white;
   background-size: cover;
-  background-image: url(../img/Leaf-Cirlces.png); }
+  background-image: url(../img/night.jpg);
+  vertical-align: middle; }
+  #skills h1 {
+    text-align: center;
+    line-height: 300px; }
 
 #web {
-  background-color: #9b59b6; }
+  background-color: #d3d3d3;
+  height: 50vh; }
 
 #graphic {
-  background-image: url(../img/sky.jpg); }
+  height: 80vh;
+  background-image: url(../img/car.jpg); }
+  #graphic h1 {
+    color: white; }
 
 #other {
   background-color: #e74c3c; }
@@ -141,19 +152,19 @@ p {
   margin: 0; }
 
 #yellow {
-  background-color: #ffc300; }
+  background-color: #ededed; }
 
 #orange {
-  background-color: #e67e22; }
+  background-color: #dedede; }
 
 #red {
-  background-color: #e74c3c; }
+  background-color: #d3d3d3; }
 
 #blue {
   background-color: #3498db; }
 
 #purple {
-  background-color: #9b59b6; }
+  background-color: #d3d3d3; }
 
 #turquoise {
   background-color: #1abc9c; }
